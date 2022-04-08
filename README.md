@@ -1,2 +1,4 @@
 # fred-tensor
-tinkering with FRED database and machine learning
+experimenting with FRED database and machine learning.
+
+this is only a hobby porject
